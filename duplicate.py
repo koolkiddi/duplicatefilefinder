@@ -46,8 +46,8 @@ def find_duplicates(paths):
 def main():
     # Chemins à analyser (modifiables ici)
     paths_to_check = [
-        "/home/centrus/databases_non_filtered/",
-        "/home/centrus/databases/"
+        "/home/sexe/with_gay/",
+        "/home/sexe/with_trans/"
     ]
 
     # Recherche des doublons
